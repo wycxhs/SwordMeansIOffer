@@ -1,4 +1,4 @@
-package com.wyc.sword.twentyFour;
+package com.wyc.sword.twentyThree;
 
 import com.wyc.sword.other.Node;
 
